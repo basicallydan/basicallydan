@@ -5,7 +5,7 @@ Hello. I'm Dan, I'm a generalist Software Engineer currently working at
 writing music and playing guitar, playing board games and cooking. Also,
 my photo is way out of date because I have a beard now :bearded_person:
 
-## :male-technologist: Software that I work on
+## 👨‍💻 Software that I work on
 
 * :white_check_mark: [DoneApp](http://danhough.com/blog/done-devlog-3/): A productivity tool for regular tasks
 * 💻 [Interfake](https://github.com/basicallydan/interfake): An API mocking tool. It's pretty out-of-date but it works!
