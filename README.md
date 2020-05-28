@@ -16,12 +16,15 @@ my photo is way out of date because I have a beard now :bearded_person:
 
 **Software things:** I'm interested in API design, testing, browser stuff and
 (as long as it's really simple) games!
+
 **Other things:** I'm interested in productivity, strategy games, songwriting,
 climbing, snowboarding and linguistics.
 
 ## :telescope: Find me online
 
 **Personal site:**: https://danhough.com
+
 **Twitter:** https://twitter.com/basicallydan
+
 **My Novelty Reddit Account:** https://reddit.com/u/song_of_ur_comment
 
