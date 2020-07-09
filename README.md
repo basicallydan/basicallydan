@@ -22,7 +22,7 @@ climbing, snowboarding and linguistics.
 
 ## :telescope: Find me online
 
-**Personal site:**: https://danhough.com
+**Personal site:** https://danhough.com
 
 **Twitter:** https://twitter.com/basicallydan
 
