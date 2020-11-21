@@ -2,8 +2,7 @@
 
 Hello. I'm Dan, I'm a generalist Software Engineer currently working at
 @junglescout here in beautiful Vancouver, BC. I also spend a lot of time
-writing music and playing guitar, playing board games and cooking. Also,
-my photo is way out of date because I have a beard now :bearded_person:
+writing music and playing guitar, playing board games and cooking.
 
 ## 👨‍💻 Software that I work on
 
