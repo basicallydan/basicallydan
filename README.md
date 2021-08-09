@@ -1,7 +1,7 @@
 # Dan Hough – @basicallydan
 
 Hello. I'm Dan, I'm a generalist Software Engineer currently working at
-@junglescout here in beautiful Vancouver, BC. I also spend a lot of time
+@wearebeam here in beautiful London, UK. I also spend a lot of time
 writing music and playing guitar, playing board games and cooking.
 
 ## 👨‍💻 Software that I work on
