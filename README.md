@@ -9,7 +9,7 @@ writing music and playing guitar, playing board games and cooking.
 * :white_check_mark: [DoneApp](http://danhough.com/blog/done-devlog-3/): A productivity tool for regular tasks
 * 💻 [Interfake](https://github.com/basicallydan/interfake): An API mocking tool. It's pretty out-of-date but it works!
 * 🎿 [SkiFree.js](http://basicallydan.github.io/skifree.js/): The classic PC Game SkiFree, but in JavaScript.
-* :palm_tree: [@junglescout](https://junglescout.com): My main squeeze. We make tools for Amazon Sellers.
+* 🏡 [@wearebeam](https://junglescout.com): My main squeeze. We help marginalised people find homes and jobs.
 
 ## :coffee: Let's talk!
 
