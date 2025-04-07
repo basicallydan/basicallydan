@@ -1,6 +1,6 @@
 # Dan Hough – @basicallydan
 
-Hello. I'm Dan, I'm a generalist Software Engineer currently on a little break between jobs in beautiful London, UK. I also spend a lot of time
+Hello. I'm Dan, I'm a generalist Software Engineer currently on a little break between jobs in beautiful Melbourne, VIC, Australia. I also spend a lot of time
 writing music, playing guitar, performing stand-up comedy, playing board games and cooking.
 
 ## 👨‍💻 Software that I work on
